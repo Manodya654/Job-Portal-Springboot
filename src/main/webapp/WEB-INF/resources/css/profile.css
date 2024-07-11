@@ -1,0 +1,10 @@
+html,body{
+  display: grid;
+  height: 100vh;
+  place-items:center;
+  background: #408080;
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+h2{
+	align:center;
+}
